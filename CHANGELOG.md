@@ -13,3 +13,4 @@
 - fix: link the usage section
 - fix: link the usage section
 - fix: add a note about the defaults
+- docs: add a note about the defaults
